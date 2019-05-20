@@ -1,0 +1,15 @@
+{
+  "name": "node-1",
+  "version": "1.0.1",
+  "description": "primer trabajo con nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Pablo Ospina juanpa2191@hotmail.com",
+  "license": "ISC"
+}
